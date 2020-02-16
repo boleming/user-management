@@ -11,6 +11,6 @@ npm install
 ```
 npm run dev
 ```
-## json-server的数据接口地址：
+## json-server的数据接口代码地址：
 > 
 ## 具体的运行效果：
