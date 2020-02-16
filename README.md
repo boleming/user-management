@@ -1,21 +1,16 @@
-# user-management
+# 我的用户管理系统
 
-> 我的个人用户信息管理系统
+> vue+bootstrap
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+## 如何运行：(前提是得先运行json-server服务，取得端口号为3000的数据接口)
+1. 初始化项目：
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+npm install
+```
+2. 运行项目：
+```
+npm run dev
+```
+## json-server的数据接口地址：
+> 
+## 具体的运行效果：
